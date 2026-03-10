@@ -1,4 +1,4 @@
-const SERVER_URL = "https://ВАШ_СЕРВЕР_НА_RENDER.onrender.com"; // Замените после деплоя
+const SERVER_URL = "https://nexusmailmessenger.onrender.com"; // Замените после деплоя
 let socket;
 let currentUser = localStorage.getItem('email');
 
